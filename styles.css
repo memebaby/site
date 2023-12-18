@@ -31,4 +31,12 @@ footer {
   color: white;
   text-align: center;
   padding: 10px;
+  height: 45px;
+}
+html, body{
+  height: 100%
+}
+napol{
+  min-height:100px;
+  margin-bottom: -45px
 }
