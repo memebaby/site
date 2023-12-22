@@ -110,3 +110,20 @@ button {
 li {
   padding: 5px
 }
+#fir{
+  width: 350px
+}
+#sec{
+  width: 500px}
+#thi{
+  width: px
+}
+#fir, #sec, #thi {
+  border: none
+}
+.den {
+  padding: 68px
+}
+.tabn{
+  width: 100%;
+  border: 0px;
