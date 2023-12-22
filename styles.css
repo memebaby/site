@@ -7,7 +7,7 @@ html, body {
   position: relative;
 }
 
-table {
+.tabl {
   margin-top: 20px;
   margin-bottom: 60px;
   margin-left: auto;
@@ -66,4 +66,26 @@ h3 {
 }
 .cen{
    text-align: center;
+}
+.ben {
+  padding: 10px
+}
+.tabc{
+  width: 100%;
+  border: 0px;
+}
+#per{
+  width: 350px
+}
+#vto{
+  width: 200px
+}
+#tre{
+  width: 550px
+}
+#che{
+  width: px
+}
+#per, #vto, #tre, #che {
+  border: none
 }
